@@ -11,13 +11,13 @@
 
 &emsp;
 <a href="https://www.linkedin.com/in/deepbratt/">
-    ![Linkedin: deepbratt](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin: deepbratt](https://img.shields.io/badge/-deepbratt-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://twitter.com/intent/follow?screen_name=deepbratt">
-    ![Twitter: deepbratt](https://img.shields.io/twitter/follow/halmyradov?style=social)
+    ![Twitter: deepbratt](https://img.shields.io/twitter/follow/deepbratt?style=social)
 </a>
 <a href="https://www.instagram.com/deepbratt/">
-    ![Instagram: deepbratt](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
+    ![Instagram: deepbratt](https://img.shields.io/badge/-deepbratt-000?&logo=Instagram)
 </a>
 <a href="https://github.com/deepbratt">
     ![GitHub: deepbratt](https://img.shields.io/github/followers/deepbratt?label=follow&style=social)
