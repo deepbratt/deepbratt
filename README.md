@@ -47,9 +47,7 @@ Frontend for a banking platform in React, integrated with Node.js and .NET Core 
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fdeepbratt-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepbratt)
-[![GitHub](https://img.shields.io/badge/GitHub-deepbratt-0969DA?style=flat&logo=github&logoColor=white)](https://github.com/deepbratt)
-[![Gmail](https://img.shields.io/badge/Gmail-deepbratt%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:deepbratt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fdeepbratt-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepbratt) [![GitHub](https://img.shields.io/badge/GitHub-deepbratt-0969DA?style=flat&logo=github&logoColor=white)](https://github.com/deepbratt) [![Gmail](https://img.shields.io/badge/Gmail-deepbratt%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:deepbratt@gmail.com)
 
 ## GitHub
 
