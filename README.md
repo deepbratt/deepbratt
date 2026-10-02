@@ -2,21 +2,11 @@
 
 **Staff-level full-stack engineer** · Bengaluru, India
 
-Full-stack engineer with 9+ years of experience shipping production software in React, Next.js, TypeScript, Node.js, .NET, and Azure. I work at Volvo Cars in Bengaluru, where I own features from design through deployment and lead a micro-frontend architecture shared across teams. I am also building AI-powered products: voice that drafts an invoice, and tooling for understanding LLM spend.
-
-## What I'm building
-
-### [SnipInvoice](https://snipinvoice.com)
-
-An invoicing product with a web app and a React Native / Expo mobile app. You describe the job out loud, or type it, and voice AI turns that into a draft invoice you review before anyone else sees it. Speech goes out to an LLM API and comes back as structured line items. A price that was never said stays blank.
-
-### [Parezen](https://parezen.com) · in development
-
-An AI cost-optimization platform for teams who want to understand and cut their LLM provider bills. I am building usage and bill analysis, and an LLM gateway. Both are still in development. The public site is a preview of that direction, with labelled sample figures only.
+Full-stack engineer with 9+ years of experience shipping production software in React, Next.js, TypeScript, Node.js, .NET, and Azure. I work at Volvo Cars in Bengaluru, where I own features from design through deployment and lead a micro-frontend architecture shared across teams. I also build AI-powered features with LLM APIs and voice, including speech turned into structured data.
 
 ## Skills
 
-**AI / LLM** — LLM API integration, voice and speech-to-structured-data flows, prompt design, model and cost evaluation, AI-assisted development with coding agents
+**AI / LLM** — LLM API integration, voice and speech-to-structured-data flows, prompt design, AI-assisted development with coding agents
 
 **Frontend** — React, Next.js, TypeScript, JavaScript, React Native, micro-frontends, Redux, Zustand, React Context, Fluent UI, Material UI, HTML, CSS, Sass, Ag-Grid, D3.js, Chart.js, Recharts
 
@@ -51,7 +41,45 @@ Frontend for a banking platform in React, integrated with Node.js and .NET Core 
 
 ## GitHub
 
+[![Profile views](https://komarev.com/ghpvc/?username=deepbratt&label=Profile%20views&color=0969da&style=flat)](https://github.com/deepbratt)
+
+<a href="https://github.com/deepbratt">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=deepbratt&show_icons=true&hide_border=true&border_radius=8&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <img height="180" alt="GitHub stats for deepbratt" src="https://github-readme-stats.vercel.app/api?username=deepbratt&show_icons=true&hide_border=true&border_radius=8&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f" />
+  </picture>
+</a>
+<a href="https://github.com/deepbratt">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deepbratt&layout=compact&hide_border=true&border_radius=8&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+    <img height="180" alt="Most used languages for deepbratt" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepbratt&layout=compact&hide_border=true&border_radius=8&langs_count=8&bg_color=ffffff&title_color=0969da&text_color=24292f" />
+  </picture>
+</a>
+
+<br />
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=deepbratt&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&icon_color=58a6ff&text_color=c9d1d9" />
-  <img src="https://github-readme-stats.vercel.app/api?username=deepbratt&show_icons=true&hide_border=true&bg_color=ffffff&title_color=24292f&icon_color=0969da&text_color=57606a" alt="GitHub stats for deepbratt" width="495" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=deepbratt&hide_border=true&border_radius=8&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
+  <img height="180" alt="GitHub contribution streak for deepbratt" src="https://streak-stats.demolab.com/?user=deepbratt&hide_border=true&border_radius=8&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://fabianocouto-activity-graph.vercel.app/graph?username=deepbratt&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <img alt="GitHub contribution activity for deepbratt" src="https://fabianocouto-activity-graph.vercel.app/graph?username=deepbratt&bg_color=ffffff&color=57606a&line=0969da&point=0969da&area=true&hide_border=true" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=deepbratt&theme=darkhub&no-frame=true&column=4&row=1&margin-w=8" />
+  <img alt="GitHub trophies for deepbratt" src="https://trophy.ryglcloud.net/?username=deepbratt&theme=flat&no-frame=true&column=4&row=1&margin-w=8" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <img alt="Contribution snake animation for deepbratt" src="./assets/github-snake.svg" />
 </picture>
