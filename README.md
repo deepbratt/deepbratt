@@ -18,23 +18,6 @@ Full-stack engineer with 9+ years of experience shipping production software in 
 
 **Testing** — test-driven development, Jest, React Testing Library, Cypress, Karma, Mocha, Chai, SonarQube
 
-## Experience
-
-**Software Engineer · Volvo Cars** — Bengaluru · Jun 2024 – Present
-End-to-end ownership of web UI features in React, Next.js, and TypeScript, backed by .NET services. Leading micro-frontend architecture so teams can ship independently. Accessible UI with Fluent UI, and state with Redux and React Context.
-
-**Senior Tech Lead · HCL Technologies** — Kolkata · Nov 2021 – May 2024
-Led full-stack delivery for secure data exchange with insurance providers. Built React, Next.js, and TypeScript micro-frontends, and raised reliability with test-driven development in Jest and Karma.
-
-**Tech Lead · Larsen & Toubro Technology Services** — Bengaluru · Oct 2020 – Nov 2021
-Frontend tech lead for a chiller monitoring product on React and Next.js. Delivered TypeScript applications on Azure and AWS.
-
-**Senior Software Developer · StockEdge (Kredent Infoedge)** — Kolkata · Apr 2020 – Oct 2020
-Real-time financial data: Node.js REST and WebSocket services, GraphQL APIs, and data-heavy dashboards in React and React Native.
-
-**Senior Software Developer · Clickrstop** — Kolkata · Jul 2017 – Mar 2020
-Frontend for a banking platform in React, integrated with Node.js and .NET Core APIs. State in Redux, tests in Jest.
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fdeepbratt-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepbratt) [![GitHub](https://img.shields.io/badge/GitHub-deepbratt-0969DA?style=flat&logo=github&logoColor=white)](https://github.com/deepbratt) [![Gmail](https://img.shields.io/badge/Gmail-deepbratt%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:deepbratt@gmail.com)
